@@ -8,7 +8,7 @@
 - 💬 Ask me about Rendering, Radiance Fields and graph optimization.
 - 📫 How to reach me: vbodda@wpi.edu, +15084102359
 - 😄 Pronouns: He/Him
-- 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Venkatag14)](https://github.com/Venkatag14/github-readme-stats)
 
 
