@@ -9,6 +9,6 @@
 - 📫 How to reach me: vbodda@wpi.edu, +15084102359
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Venkatag14&theme=algolia&show_icons=true)](https://github.com/Venkatag14)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Venkatag14&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,C++,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Venkatag14)
 
 
