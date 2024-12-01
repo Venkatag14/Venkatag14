@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there👋, Busy Crafting the algorithms that teach machines to perceive, navigate, and interact with the world autonomously.
 
-<!--
-**Venkatag14/Venkatag14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Autonomous Non Invasive Imaging of tissue.
+- 🌱 I’m currently learning SLAM and Gaussian Splatitng.
+- 👯 I’m looking to collaborate on Realtime SLAM and efficient 3dGS projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Rendering, Radiance Fields and graph optimization.
+- 📫 How to reach me: vbodda@wpi.edu, +15084102359
+- 😄 Pronouns: He/Him
+- 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
