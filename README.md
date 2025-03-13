@@ -10,6 +10,14 @@
 - 😄 Pronouns: He/Him
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatag14&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/Venkatag14">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Venkatag14&show_icons=true&theme=dracula" alt="Venkatag14's GitHub Stats"/>
+  </a>
+  
+  <a href="https://github.com/Venkatag14">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatag14&layout=compact" alt="Venkatag14's Top Languages"/>
+  </a>
+</div>
 
 
