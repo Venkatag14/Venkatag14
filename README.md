@@ -1,7 +1,7 @@
 ## Hi there👋, Busy Crafting the algorithms that teach machines to perceive, navigate, and interact with the world autonomously.
 
 
-- 🔭 I’m currently working on Autonomous Non Invasive Imaging using Robots.
+- 🔭 I’m worked on Autonomous Non Invasive Imaging using Robots.
 - 🌱 I’m Interested in SLAM and Gaussian Splatitng.
 - 👯 I’m looking to collaborate on Realtime SLAM and efficient 3dGS projects. 
 
